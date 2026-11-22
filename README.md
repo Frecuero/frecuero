@@ -27,7 +27,7 @@ I care about clean architecture, maintainable code and security by design. That 
 
 ## Featured projects
 
-- 🎓 **[TFM title]([https://github.com/Frecuero](https://github.com/Frecuero/TFM-LLM-Pentesting))**: one-line description · `Tech, Tech`
+- 🎓 **[TFM title](https://github.com/Frecuero/TFM-LLM-Pentesting)**: one-line description · `Tech, Tech`
 - 🌐 **[fabianrn.com](https://fabianrn.com)**: personal portfolio · `React`
 - 🏋️ **[Gym website](https://gym.fabianrn.com/)**: web for a real gym client · `PHP, MySQL`
 
