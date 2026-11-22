@@ -14,19 +14,18 @@ I care about clean architecture, maintainable code and security by design. That 
 
 ## Tech stack
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift,kotlin,react,php,mysql&perline=8" alt="Languages & frameworks" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,githubactions,git&perline=8" alt="DevOps & tools" />
+</p>
 ## Featured projects
 
 ## Featured projects
 
-- 🎓 **[TFM title](https://github.com/TODO)**: one-line description · `Tech, Tech`
+- 🎓 **[TFM title](https://github.com/Frecuero)**: one-line description · `Tech, Tech`
 - 🌐 **[fabianrn.com](https://fabianrn.com)**: personal portfolio · `React`
-- 🍎 **[Swift project](https://github.com/TODO)**: coming soon
-- ☁️ **[Self-hosted cloud](https://github.com/TODO)**: hardened Nextcloud deployment · `Docker, Nginx, Linux`
-- 🏋️ **[Gym website](https://TODO)**: web for a real gym client · `PHP, MySQL`
+- 🏋️ **[Gym website](https://gym.fabianrn.com/)**: web for a real gym client · `PHP, MySQL`
 
 ## Contact
 
