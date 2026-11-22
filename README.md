@@ -15,15 +15,19 @@ I care about clean architecture, maintainable code and security by design. That 
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,kotlin,react,php,mysql&perline=8" alt="Languages & frameworks" />
+  <img src="https://skillicons.dev/icons?i=swift,kotlin,react,py,php&perline=8" alt="Languages & frameworks" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,githubactions,git&perline=8" alt="DevOps & tools" />
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,kali&perline=8" alt="Tools & security" />
 </p>
-## Featured projects
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white" />
+</p>
 
 ## Featured projects
 
-- 🎓 **[TFM title](https://github.com/Frecuero)**: one-line description · `Tech, Tech`
+- 🎓 **[TFM title]([https://github.com/Frecuero](https://github.com/Frecuero/TFM-LLM-Pentesting))**: one-line description · `Tech, Tech`
 - 🌐 **[fabianrn.com](https://fabianrn.com)**: personal portfolio · `React`
 - 🏋️ **[Gym website](https://gym.fabianrn.com/)**: web for a real gym client · `PHP, MySQL`
 
