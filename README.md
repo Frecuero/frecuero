@@ -27,7 +27,7 @@ I care about clean architecture, maintainable code and security by design. That 
 
 ## Featured projects
 
-- 🎓 **[TFM title](https://github.com/Frecuero/TFM-LLM-Pentesting)**: one-line description · `Tech, Tech`
+- 🎓 **[TFM title](https://github.com/Frecuero/TFM-LLM-Pentesting)**: Spin up intentionally vulnerable AWS labs with Terraform, then audit them automatically with security scanners and LLMs · `AWS, Terraform, Python, LLMs`
 - 🌐 **[fabianrn.com](https://fabianrn.com)**: personal portfolio · `React`
 - 🏋️ **[Gym website](https://gym.fabianrn.com/)**: web for a real gym client · `PHP, MySQL`
 
