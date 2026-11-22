@@ -1,14 +1,29 @@
+<h1 align="center">Hi 👋, I'm Fabián Recuero</h1>
+<p align="center">Full Stack Developer · iOS (Swift / SwiftUI) · Security-minded</p>
 
-<h1 align="center">Hi 👋, I'm Fabian Recuero</h1>
+## About me
 
-## ℹ️ About me
-I'm an experienced Full Stack Developer with 2+ years specializing in iOS mobile apps and Front-End & Back-End Web development. Passionate about IT security, constantly updating skills.
+Full Stack Developer with 2+ years of experience building iOS apps and web applications, front end to back end.
+I care about clean architecture, maintainable code and security by design. That last part is what I enjoy most: thinking about how things break before they do.
 
-Committed to crafting innovative solutions for enhancing lives and driving business growth. Skilled in building robust, scalable software to meet diverse needs. Let's collaborate and bring your vision to fruition.
+- 🍎 Currently building a **SwiftUI** app with a focus on clean architecture
+- 🔐 Interested in **application security**: secure storage, auth flows, API hardening
+- 📚 Learning: `TODO: something specific, e.g. Swift Concurrency, Vapor, threat modeling`
+- 💬 Ask me about **iOS, SwiftUI, frontend development or Kotlin**
+- ⚡ Fun fact: programming is like a soccer match. Strategy, teamwork, and sometimes you just have to restart the server (or the goalkeeper).
 
-- 💬 Ask me about **iOS & Frontend Development or Kotlin.**
-- 📚 I’m currently learning to increase my skills
-- ⚡ Fun fact **I imagine programming like playing a soccer match: there's strategy, teamwork, and occasionally, you need to restart the server (or the goalkeeper).**
+## Tech stack
 
-## 📲 Contact Me
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="fabi%C3%A1n-recuero" height="20" width="20" /> [LinkedIn](https://co.linkedin.com/in/fabi%C3%A1n-recuero-narv%C3%A1ez) 
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+<!-- TODO: add your real web stack, e.g. TypeScript, React, Node.js, databases -->
+
+## Featured projects
+
+<!-- TODO: 2-3 pinned repos with one line each: what it does + key tech -->
+- **[Project name](https://github.com/TODO)**: one-line description
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabi%C3%A1n-recuero-narv%C3%A1ez)
